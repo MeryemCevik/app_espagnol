@@ -1,0 +1,35 @@
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\bin\Debug\Projet.exe.config
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\bin\Debug\Frm_Conjug.resx
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\bin\Debug\Frm_Conjug.cs
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\bin\Debug\Frm_Conjug.Designer.cs
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\bin\Debug\Projet.exe
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\bin\Debug\Projet.pdb
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Accueil.resources
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Conjug.resources
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Desordre.resources
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\obj\Debug\Projet.frm_txtTrous.resources
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Vocabulaire.resources
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\obj\Debug\Projet.exe
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\obj\Debug\Projet.pdb
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Revision.resources
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\bin\Debug\Projet.exe.config
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\obj\Debug\Projet.exe
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\obj\Debug\Projet.pdb
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\bin\Debug\Frm_Conjug.resx
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\bin\Debug\Frm_Conjug.cs
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\bin\Debug\Frm_Conjug.Designer.cs
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\bin\Debug\Projet.exe
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\bin\Debug\Projet.pdb
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Accueil.resources
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Conjug.resources
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Desordre.resources
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Revision.resources
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\obj\Debug\Projet.frm_txtTrous.resources
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Vocabulaire.resources
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Recap.resources

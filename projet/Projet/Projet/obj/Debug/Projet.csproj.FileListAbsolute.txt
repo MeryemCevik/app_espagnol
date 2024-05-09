@@ -1,0 +1,57 @@
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\bin\Debug\Projet.exe.config
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\bin\Debug\Frm_Conjug.resx
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\bin\Debug\Frm_Conjug.cs
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\bin\Debug\Frm_Conjug.Designer.cs
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\bin\Debug\Projet.exe
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\bin\Debug\Projet.pdb
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Accueil.resources
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Conjug.resources
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Desordre.resources
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\obj\Debug\Projet.frm_txtTrous.resources
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Vocabulaire.resources
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\obj\Debug\Projet.exe
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\obj\Debug\Projet.pdb
+\\vfiler-ad-etu.ad.unistra.fr\princelle\Bureau\Work Directory\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Revision.resources
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\bin\Debug\Projet.exe.config
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\obj\Debug\Projet.exe
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\obj\Debug\Projet.pdb
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\bin\Debug\Frm_Conjug.resx
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\bin\Debug\Frm_Conjug.cs
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\bin\Debug\Frm_Conjug.Designer.cs
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\bin\Debug\Projet.exe
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\bin\Debug\Projet.pdb
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Accueil.resources
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Conjug.resources
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Desordre.resources
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Revision.resources
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\obj\Debug\Projet.frm_txtTrous.resources
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Vocabulaire.resources
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Recap.resources
+U:\Projet_D21\Mini-projet\d21-projet\Projet\Projet\obj\Debug\Projet.frm_admin.resources
+C:\Users\mcevi\OneDrive\Bureau\Mes documents\BUT info\S2\projet D11.2\d21-projet\Projet\Projet\bin\Debug\Frm_Conjug.resx
+C:\Users\mcevi\OneDrive\Bureau\Mes documents\BUT info\S2\projet D11.2\d21-projet\Projet\Projet\bin\Debug\Frm_Conjug.cs
+C:\Users\mcevi\OneDrive\Bureau\Mes documents\BUT info\S2\projet D11.2\d21-projet\Projet\Projet\bin\Debug\Frm_Conjug.Designer.cs
+C:\Users\mcevi\OneDrive\Bureau\Mes documents\BUT info\S2\projet D11.2\d21-projet\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\mcevi\OneDrive\Bureau\Mes documents\BUT info\S2\projet D11.2\d21-projet\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\mcevi\OneDrive\Bureau\Mes documents\BUT info\S2\projet D11.2\d21-projet\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\mcevi\OneDrive\Bureau\Mes documents\BUT info\S2\projet D11.2\d21-projet\Projet\Projet\obj\Debug\Projet.csproj.AssemblyReference.cache
+C:\Users\mcevi\OneDrive\Bureau\Mes documents\BUT info\S2\projet D11.2\d21-projet\Projet\Projet\obj\Debug\Projet.csproj.SuggestedBindingRedirects.cache
+C:\Users\mcevi\OneDrive\Bureau\Mes documents\BUT info\S2\projet D11.2\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Accueil.resources
+C:\Users\mcevi\OneDrive\Bureau\Mes documents\BUT info\S2\projet D11.2\d21-projet\Projet\Projet\obj\Debug\Projet.frm_admin.resources
+C:\Users\mcevi\OneDrive\Bureau\Mes documents\BUT info\S2\projet D11.2\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Conjug.resources
+C:\Users\mcevi\OneDrive\Bureau\Mes documents\BUT info\S2\projet D11.2\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Desordre.resources
+C:\Users\mcevi\OneDrive\Bureau\Mes documents\BUT info\S2\projet D11.2\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Recap.resources
+C:\Users\mcevi\OneDrive\Bureau\Mes documents\BUT info\S2\projet D11.2\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Revision.resources
+C:\Users\mcevi\OneDrive\Bureau\Mes documents\BUT info\S2\projet D11.2\d21-projet\Projet\Projet\obj\Debug\Projet.frm_txtTrous.resources
+C:\Users\mcevi\OneDrive\Bureau\Mes documents\BUT info\S2\projet D11.2\d21-projet\Projet\Projet\obj\Debug\Projet.frm_Vocabulaire.resources
+C:\Users\mcevi\OneDrive\Bureau\Mes documents\BUT info\S2\projet D11.2\d21-projet\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\mcevi\OneDrive\Bureau\Mes documents\BUT info\S2\projet D11.2\d21-projet\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\mcevi\OneDrive\Bureau\Mes documents\BUT info\S2\projet D11.2\d21-projet\Projet\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\mcevi\OneDrive\Bureau\Mes documents\BUT info\S2\projet D11.2\d21-projet\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\mcevi\OneDrive\Bureau\Mes documents\BUT info\S2\projet D11.2\d21-projet\Projet\Projet\obj\Debug\Projet.pdb
